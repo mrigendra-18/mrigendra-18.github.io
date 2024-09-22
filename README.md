@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 
-Passionate Full-Stack Web Developer | Civil Engineer Turned Tech Enthusiast
+**Passionate Full-Stack Web Developer | Civil Engineer Turned Tech Enthusiast**
 
 With a B.Tech in Civil Engineering, I discovered my true calling in software development, driven by an insatiable curiosity for coding and problem-solving. After completing a rigorous 35-week Full-Stack Web Development program at Masai School, I’ve mastered a diverse tech stack, including HTML, CSS, JavaScript, React, Node.js, and MongoDB. My hands-on projects—such as building a collaborative Whiteboard Application and cloning Apollo.io—have sharpened my skills in crafting sleek, intuitive, and responsive web applications.
 
