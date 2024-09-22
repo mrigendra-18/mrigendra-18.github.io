@@ -2,7 +2,11 @@
 
 ## 👩‍💻 About Me
 
-Hi, I'm Mrigendra Patel, an aspiring Full-Stack Web Developer with a B.Tech in CIVIL Engineering. My journey into web development began with a deep passion for coding and technology, which led me to transition from CIVIL engineering to the dynamic field of software development. I’m committed to continuous learning and am eager to contribute to innovative projects that leverage technology to solve real-world problems.
+Passionate Full-Stack Web Developer | Civil Engineer Turned Tech Enthusiast
+
+With a B.Tech in Civil Engineering, I discovered my true calling in software development, driven by an insatiable curiosity for coding and problem-solving. After completing a rigorous 35-week Full-Stack Web Development program at Masai School, I’ve mastered a diverse tech stack, including HTML, CSS, JavaScript, React, Node.js, and MongoDB. My hands-on projects—such as building a collaborative Whiteboard Application and cloning Apollo.io—have sharpened my skills in crafting sleek, intuitive, and responsive web applications.
+
+I’m not just a developer; I’m a lifelong learner, constantly evolving with the fast-paced world of technology. I’m eager to collaborate on innovative solutions that blend creativity and functionality, and I’m excited to bring my unique background and skillset to impactful, real-world projects.
 
 ### 🚀 Skills and Technologies
 
