@@ -19,7 +19,7 @@ Hi, I'm Mrigendra Patel, an aspiring Full-Stack Web Developer with a B.Tech in C
 
 ### 🧩 Projects
 
-- **Whiteboard :** Collaborated with a team of 3 to build a Whiteboard application in 5 days. [Explore the project](https://dribbling-theta.vercel.app/#)
+- **Whiteboard:** Collaborated with a team of 3 to build a Whiteboard application in 5 days. [Explore the project](https://669e1ed439ba5f036f246156--golden-eclair-9d611b.netlify.app/#)
 - **Apollo.io:** Worked with a team of 5 to replicate the Apollo.io within 5 days. [Check out the project](https://t-matrix.netlify.app/)
 
 ### 💼 Professional Experience
