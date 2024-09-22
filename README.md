@@ -1,4 +1,5 @@
 
+# mrigendrapatel.github.io
 
 ## 👩‍💻 About Me
 
@@ -40,9 +41,8 @@ I recently completed a 35-week intensive Full-Stack Web Development course at Ma
 Feel free to connect with me to discuss web development projects, collaboration opportunities, or simply to share ideas!
 
 ### 🌐 Portfolio
-
+Visit my portfolio to see more of my work: [Mrigendra Portfolio](https://github.com/mrigendra-18/mrigendra-18.github.io)
 
 ---
 
 
-# mrigendrapatel.github.io
